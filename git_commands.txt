@@ -1,0 +1,19 @@
+git status (Checking for git repo)
+
+git --version (Checking for git version)
+
+git init (Initialising git repo)
+
+git add . (Staging all files)
+
+git commit -m "Commit" (Commiting all files in the repo (#Note: You can put any name in the quotations ""))
+
+git log (Shows who has made the changes and at what time)
+
+git --global user.name "Name" user.email "Email" (Sets the username and email for all repo's)
+
+git remote add origin (link) (Gets the (link) remotely where u want to store the file)
+
+git push -u origin master (Pushes code to github)
+
+git pull origin master (Pulls code from github)
